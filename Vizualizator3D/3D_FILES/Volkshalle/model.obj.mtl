@@ -1,0 +1,40 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v3.1.187496374)
+
+newmtl ID12
+Kd 0.6 0.6 0.6
+Ka 0.1 0.1 0.1
+Ks 0.4 0.4 0.4
+Ke 0 0 0
+d 1
+Ns 10
+illum 2
+map_Kd model/_1.jpg
+
+newmtl ID31
+Kd 0 0.501961 0.501961
+Ka 0.1 0.1 0.1
+Ks 0.4 0.4 0.4
+Ke 0 0 0
+d 1
+Ns 10
+illum 2
+
+newmtl ID4
+Kd 0.972549 0.972549 1
+Ka 0.1 0.1 0.1
+Ks 0.4 0.4 0.4
+Ke 0 0 0
+d 1
+Ns 10
+illum 2
+
+newmtl ID82
+Kd 0.878431 0.878431 0.780392
+Ka 0.1 0.1 0.1
+Ks 0.4 0.4 0.4
+Ke 0 0 0
+d 1
+Ns 10
+illum 2
+

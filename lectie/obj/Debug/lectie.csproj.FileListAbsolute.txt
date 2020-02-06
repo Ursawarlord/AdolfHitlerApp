@@ -1,0 +1,45 @@
+C:\Users\madalin\Desktop\ATESTAT\FINAL\AdolfHitlerApp\lectie\obj\Debug\lectie.csprojAssemblyReference.cache
+C:\Users\madalin\Desktop\ATESTAT\FINAL\AdolfHitlerApp\lectie\obj\Debug\MainWindow.g.cs
+C:\Users\madalin\Desktop\ATESTAT\FINAL\AdolfHitlerApp\lectie\obj\Debug\App.g.cs
+C:\Users\madalin\Desktop\ATESTAT\FINAL\AdolfHitlerApp\lectie\obj\Debug\lectie_MarkupCompile.cache
+C:\Users\madalin\Desktop\ATESTAT\FINAL\AdolfHitlerApp\lectie\obj\Debug\lectie_MarkupCompile.lref
+C:\Users\madalin\Desktop\ATESTAT\FINAL\AdolfHitlerApp\lectie\bin\Debug\lectie.exe.config
+C:\Users\madalin\Desktop\ATESTAT\FINAL\AdolfHitlerApp\lectie\bin\Debug\lectie.exe
+C:\Users\madalin\Desktop\ATESTAT\FINAL\AdolfHitlerApp\lectie\bin\Debug\lectie.pdb
+C:\Users\madalin\Desktop\ATESTAT\FINAL\AdolfHitlerApp\lectie\obj\Debug\MainWindow.baml
+C:\Users\madalin\Desktop\ATESTAT\FINAL\AdolfHitlerApp\lectie\obj\Debug\lectie.g.resources
+C:\Users\madalin\Desktop\ATESTAT\FINAL\AdolfHitlerApp\lectie\obj\Debug\lectie.Properties.Resources.resources
+C:\Users\madalin\Desktop\ATESTAT\FINAL\AdolfHitlerApp\lectie\obj\Debug\lectie.csproj.GenerateResource.cache
+C:\Users\madalin\Desktop\ATESTAT\FINAL\AdolfHitlerApp\lectie\obj\Debug\lectie.csproj.CoreCompileInputs.cache
+C:\Users\madalin\Desktop\ATESTAT\FINAL\AdolfHitlerApp\lectie\obj\Debug\lectie.exe
+C:\Users\madalin\Desktop\ATESTAT\FINAL\AdolfHitlerApp\lectie\obj\Debug\lectie.pdb
+C:\Users\madalin\Desktop\ATESTAT\AdolfHitlerApp\lectie\bin\Debug\lectie.exe.config
+C:\Users\madalin\Desktop\ATESTAT\AdolfHitlerApp\lectie\bin\Debug\lectie.exe
+C:\Users\madalin\Desktop\ATESTAT\AdolfHitlerApp\lectie\bin\Debug\lectie.pdb
+C:\Users\madalin\Desktop\ATESTAT\AdolfHitlerApp\lectie\obj\Debug\lectie.csprojAssemblyReference.cache
+C:\Users\madalin\Desktop\ATESTAT\AdolfHitlerApp\lectie\obj\Debug\MainWindow.g.cs
+C:\Users\madalin\Desktop\ATESTAT\AdolfHitlerApp\lectie\obj\Debug\App.g.cs
+C:\Users\madalin\Desktop\ATESTAT\AdolfHitlerApp\lectie\obj\Debug\lectie_MarkupCompile.cache
+C:\Users\madalin\Desktop\ATESTAT\AdolfHitlerApp\lectie\obj\Debug\lectie_MarkupCompile.lref
+C:\Users\madalin\Desktop\ATESTAT\AdolfHitlerApp\lectie\obj\Debug\MainWindow.baml
+C:\Users\madalin\Desktop\ATESTAT\AdolfHitlerApp\lectie\obj\Debug\lectie.g.resources
+C:\Users\madalin\Desktop\ATESTAT\AdolfHitlerApp\lectie\obj\Debug\lectie.Properties.Resources.resources
+C:\Users\madalin\Desktop\ATESTAT\AdolfHitlerApp\lectie\obj\Debug\lectie.csproj.GenerateResource.cache
+C:\Users\madalin\Desktop\ATESTAT\AdolfHitlerApp\lectie\obj\Debug\lectie.csproj.CoreCompileInputs.cache
+C:\Users\madalin\Desktop\ATESTAT\AdolfHitlerApp\lectie\obj\Debug\lectie.exe
+C:\Users\madalin\Desktop\ATESTAT\AdolfHitlerApp\lectie\obj\Debug\lectie.pdb
+D:\Proiecte făurite\atestat\ATESTAT\AdolfHitlerApp\lectie\bin\Debug\lectie.exe.config
+D:\Proiecte făurite\atestat\ATESTAT\AdolfHitlerApp\lectie\bin\Debug\lectie.exe
+D:\Proiecte făurite\atestat\ATESTAT\AdolfHitlerApp\lectie\bin\Debug\lectie.pdb
+D:\Proiecte făurite\atestat\ATESTAT\AdolfHitlerApp\lectie\obj\Debug\lectie.csprojAssemblyReference.cache
+D:\Proiecte făurite\atestat\ATESTAT\AdolfHitlerApp\lectie\obj\Debug\MainWindow.g.cs
+D:\Proiecte făurite\atestat\ATESTAT\AdolfHitlerApp\lectie\obj\Debug\App.g.cs
+D:\Proiecte făurite\atestat\ATESTAT\AdolfHitlerApp\lectie\obj\Debug\lectie_MarkupCompile.cache
+D:\Proiecte făurite\atestat\ATESTAT\AdolfHitlerApp\lectie\obj\Debug\lectie_MarkupCompile.lref
+D:\Proiecte făurite\atestat\ATESTAT\AdolfHitlerApp\lectie\obj\Debug\MainWindow.baml
+D:\Proiecte făurite\atestat\ATESTAT\AdolfHitlerApp\lectie\obj\Debug\lectie.g.resources
+D:\Proiecte făurite\atestat\ATESTAT\AdolfHitlerApp\lectie\obj\Debug\lectie.Properties.Resources.resources
+D:\Proiecte făurite\atestat\ATESTAT\AdolfHitlerApp\lectie\obj\Debug\lectie.csproj.GenerateResource.cache
+D:\Proiecte făurite\atestat\ATESTAT\AdolfHitlerApp\lectie\obj\Debug\lectie.csproj.CoreCompileInputs.cache
+D:\Proiecte făurite\atestat\ATESTAT\AdolfHitlerApp\lectie\obj\Debug\lectie.exe
+D:\Proiecte făurite\atestat\ATESTAT\AdolfHitlerApp\lectie\obj\Debug\lectie.pdb

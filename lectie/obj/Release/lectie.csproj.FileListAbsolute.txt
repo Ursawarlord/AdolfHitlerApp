@@ -1,0 +1,15 @@
+C:\Users\madalin\Desktop\ATESTAT\AdolfHitlerApp\lectie\bin\Release\lectie.exe.config
+C:\Users\madalin\Desktop\ATESTAT\AdolfHitlerApp\lectie\bin\Release\lectie.exe
+C:\Users\madalin\Desktop\ATESTAT\AdolfHitlerApp\lectie\bin\Release\lectie.pdb
+C:\Users\madalin\Desktop\ATESTAT\AdolfHitlerApp\lectie\obj\Release\lectie.csprojAssemblyReference.cache
+C:\Users\madalin\Desktop\ATESTAT\AdolfHitlerApp\lectie\obj\Release\MainWindow.g.cs
+C:\Users\madalin\Desktop\ATESTAT\AdolfHitlerApp\lectie\obj\Release\App.g.cs
+C:\Users\madalin\Desktop\ATESTAT\AdolfHitlerApp\lectie\obj\Release\lectie_MarkupCompile.cache
+C:\Users\madalin\Desktop\ATESTAT\AdolfHitlerApp\lectie\obj\Release\lectie_MarkupCompile.lref
+C:\Users\madalin\Desktop\ATESTAT\AdolfHitlerApp\lectie\obj\Release\MainWindow.baml
+C:\Users\madalin\Desktop\ATESTAT\AdolfHitlerApp\lectie\obj\Release\lectie.g.resources
+C:\Users\madalin\Desktop\ATESTAT\AdolfHitlerApp\lectie\obj\Release\lectie.Properties.Resources.resources
+C:\Users\madalin\Desktop\ATESTAT\AdolfHitlerApp\lectie\obj\Release\lectie.csproj.GenerateResource.cache
+C:\Users\madalin\Desktop\ATESTAT\AdolfHitlerApp\lectie\obj\Release\lectie.csproj.CoreCompileInputs.cache
+C:\Users\madalin\Desktop\ATESTAT\AdolfHitlerApp\lectie\obj\Release\lectie.exe
+C:\Users\madalin\Desktop\ATESTAT\AdolfHitlerApp\lectie\obj\Release\lectie.pdb

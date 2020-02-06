@@ -1,0 +1,138 @@
+C:\Users\madalin\Desktop\ATESTAT\FINAL\ExampleBrowser\bin\Debug\ExampleBrowser.exe.config
+C:\Users\madalin\Desktop\ATESTAT\FINAL\ExampleBrowser\bin\Debug\ExampleBrowser.exe
+C:\Users\madalin\Desktop\ATESTAT\FINAL\ExampleBrowser\bin\Debug\ExampleBrowser.pdb
+C:\Users\madalin\Desktop\ATESTAT\FINAL\ExampleBrowser\bin\Debug\HelixToolkit.dll
+C:\Users\madalin\Desktop\ATESTAT\FINAL\ExampleBrowser\bin\Debug\HelixToolkit.pdb
+C:\Users\madalin\Desktop\ATESTAT\FINAL\ExampleBrowser\bin\Debug\HelixToolkit.Wpf.dll
+C:\Users\madalin\Desktop\ATESTAT\FINAL\ExampleBrowser\bin\Debug\HelixToolkit.Wpf.pdb
+C:\Users\madalin\Desktop\ATESTAT\FINAL\ExampleBrowser\bin\Debug\NAudio.dll
+C:\Users\madalin\Desktop\ATESTAT\FINAL\ExampleBrowser\bin\Debug\PropertyTools.Wpf.dll
+C:\Users\madalin\Desktop\ATESTAT\FINAL\ExampleBrowser\bin\Debug\PropertyTools.Wpf.pdb
+C:\Users\madalin\Desktop\ATESTAT\FINAL\ExampleBrowser\bin\Debug\PropertyTools.dll
+C:\Users\madalin\Desktop\ATESTAT\FINAL\ExampleBrowser\bin\Debug\PropertyTools.pdb
+C:\Users\madalin\Desktop\ATESTAT\FINAL\ExampleBrowser\obj\Debug\Vizualizator3D.csprojAssemblyReference.cache
+C:\Users\madalin\Desktop\ATESTAT\FINAL\ExampleBrowser\obj\Debug\3D_FILES\GermanShepherd\MainWindow.g.cs
+C:\Users\madalin\Desktop\ATESTAT\FINAL\ExampleBrowser\obj\Debug\3D_FILES\Hitler\MainWindow.g.cs
+C:\Users\madalin\Desktop\ATESTAT\FINAL\ExampleBrowser\obj\Debug\3D_FILES\MercedesBenz\MainWindow.g.cs
+C:\Users\madalin\Desktop\ATESTAT\FINAL\ExampleBrowser\obj\Debug\3D_FILES\Volkshalle\MainWindow.g.cs
+C:\Users\madalin\Desktop\ATESTAT\FINAL\ExampleBrowser\obj\Debug\MainWindow.g.cs
+C:\Users\madalin\Desktop\ATESTAT\FINAL\ExampleBrowser\obj\Debug\App.g.cs
+C:\Users\madalin\Desktop\ATESTAT\FINAL\ExampleBrowser\obj\Debug\ExampleBrowser_Content.g.cs
+C:\Users\madalin\Desktop\ATESTAT\FINAL\ExampleBrowser\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\madalin\Desktop\ATESTAT\FINAL\ExampleBrowser\obj\Debug\ExampleBrowser_MarkupCompile.cache
+C:\Users\madalin\Desktop\ATESTAT\FINAL\ExampleBrowser\obj\Debug\ExampleBrowser_MarkupCompile.lref
+C:\Users\madalin\Desktop\ATESTAT\FINAL\ExampleBrowser\obj\Debug\3D_FILES\Hitler\MainWindow.baml
+C:\Users\madalin\Desktop\ATESTAT\FINAL\ExampleBrowser\obj\Debug\3D_FILES\MercedesBenz\MainWindow.baml
+C:\Users\madalin\Desktop\ATESTAT\FINAL\ExampleBrowser\obj\Debug\MainWindow.baml
+C:\Users\madalin\Desktop\ATESTAT\FINAL\ExampleBrowser\obj\Debug\3D_FILES\GermanShepherd\MainWindow.baml
+C:\Users\madalin\Desktop\ATESTAT\FINAL\ExampleBrowser\obj\Debug\3D_FILES\Volkshalle\MainWindow.baml
+C:\Users\madalin\Desktop\ATESTAT\FINAL\ExampleBrowser\obj\Debug\ExampleBrowser.g.resources
+C:\Users\madalin\Desktop\ATESTAT\FINAL\ExampleBrowser\obj\Debug\ExampleBrowser.Properties.Resources.resources
+C:\Users\madalin\Desktop\ATESTAT\FINAL\ExampleBrowser\obj\Debug\Vizualizator3D.csproj.GenerateResource.cache
+C:\Users\madalin\Desktop\ATESTAT\FINAL\ExampleBrowser\obj\Debug\Vizualizator3D.csproj.CoreCompileInputs.cache
+C:\Users\madalin\Desktop\ATESTAT\FINAL\ExampleBrowser\obj\Debug\Vizualizator3D.csproj.CopyComplete
+C:\Users\madalin\Desktop\ATESTAT\FINAL\ExampleBrowser\obj\Debug\ExampleBrowser.exe
+C:\Users\madalin\Desktop\ATESTAT\FINAL\ExampleBrowser\obj\Debug\ExampleBrowser.pdb
+C:\Users\madalin\Desktop\ATESTAT\FINAL\AdolfHitlerApp\Vizualizator3D\bin\Debug\ExampleBrowser.exe.config
+C:\Users\madalin\Desktop\ATESTAT\FINAL\AdolfHitlerApp\Vizualizator3D\bin\Debug\ExampleBrowser.exe
+C:\Users\madalin\Desktop\ATESTAT\FINAL\AdolfHitlerApp\Vizualizator3D\bin\Debug\ExampleBrowser.pdb
+C:\Users\madalin\Desktop\ATESTAT\FINAL\AdolfHitlerApp\Vizualizator3D\bin\Debug\HelixToolkit.dll
+C:\Users\madalin\Desktop\ATESTAT\FINAL\AdolfHitlerApp\Vizualizator3D\bin\Debug\HelixToolkit.pdb
+C:\Users\madalin\Desktop\ATESTAT\FINAL\AdolfHitlerApp\Vizualizator3D\bin\Debug\HelixToolkit.Wpf.dll
+C:\Users\madalin\Desktop\ATESTAT\FINAL\AdolfHitlerApp\Vizualizator3D\bin\Debug\HelixToolkit.Wpf.pdb
+C:\Users\madalin\Desktop\ATESTAT\FINAL\AdolfHitlerApp\Vizualizator3D\bin\Debug\NAudio.dll
+C:\Users\madalin\Desktop\ATESTAT\FINAL\AdolfHitlerApp\Vizualizator3D\bin\Debug\PropertyTools.Wpf.dll
+C:\Users\madalin\Desktop\ATESTAT\FINAL\AdolfHitlerApp\Vizualizator3D\bin\Debug\PropertyTools.Wpf.pdb
+C:\Users\madalin\Desktop\ATESTAT\FINAL\AdolfHitlerApp\Vizualizator3D\bin\Debug\PropertyTools.dll
+C:\Users\madalin\Desktop\ATESTAT\FINAL\AdolfHitlerApp\Vizualizator3D\bin\Debug\PropertyTools.pdb
+C:\Users\madalin\Desktop\ATESTAT\FINAL\AdolfHitlerApp\Vizualizator3D\obj\Debug\Vizualizator3D.csprojAssemblyReference.cache
+C:\Users\madalin\Desktop\ATESTAT\FINAL\AdolfHitlerApp\Vizualizator3D\obj\Debug\3D_FILES\GermanShepherd\MainWindow.g.cs
+C:\Users\madalin\Desktop\ATESTAT\FINAL\AdolfHitlerApp\Vizualizator3D\obj\Debug\3D_FILES\Hitler\MainWindow.g.cs
+C:\Users\madalin\Desktop\ATESTAT\FINAL\AdolfHitlerApp\Vizualizator3D\obj\Debug\3D_FILES\MercedesBenz\MainWindow.g.cs
+C:\Users\madalin\Desktop\ATESTAT\FINAL\AdolfHitlerApp\Vizualizator3D\obj\Debug\3D_FILES\Volkshalle\MainWindow.g.cs
+C:\Users\madalin\Desktop\ATESTAT\FINAL\AdolfHitlerApp\Vizualizator3D\obj\Debug\MainWindow.g.cs
+C:\Users\madalin\Desktop\ATESTAT\FINAL\AdolfHitlerApp\Vizualizator3D\obj\Debug\App.g.cs
+C:\Users\madalin\Desktop\ATESTAT\FINAL\AdolfHitlerApp\Vizualizator3D\obj\Debug\ExampleBrowser_Content.g.cs
+C:\Users\madalin\Desktop\ATESTAT\FINAL\AdolfHitlerApp\Vizualizator3D\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\madalin\Desktop\ATESTAT\FINAL\AdolfHitlerApp\Vizualizator3D\obj\Debug\ExampleBrowser_MarkupCompile.cache
+C:\Users\madalin\Desktop\ATESTAT\FINAL\AdolfHitlerApp\Vizualizator3D\obj\Debug\ExampleBrowser_MarkupCompile.lref
+C:\Users\madalin\Desktop\ATESTAT\FINAL\AdolfHitlerApp\Vizualizator3D\obj\Debug\3D_FILES\GermanShepherd\MainWindow.baml
+C:\Users\madalin\Desktop\ATESTAT\FINAL\AdolfHitlerApp\Vizualizator3D\obj\Debug\3D_FILES\Hitler\MainWindow.baml
+C:\Users\madalin\Desktop\ATESTAT\FINAL\AdolfHitlerApp\Vizualizator3D\obj\Debug\3D_FILES\MercedesBenz\MainWindow.baml
+C:\Users\madalin\Desktop\ATESTAT\FINAL\AdolfHitlerApp\Vizualizator3D\obj\Debug\3D_FILES\Volkshalle\MainWindow.baml
+C:\Users\madalin\Desktop\ATESTAT\FINAL\AdolfHitlerApp\Vizualizator3D\obj\Debug\MainWindow.baml
+C:\Users\madalin\Desktop\ATESTAT\FINAL\AdolfHitlerApp\Vizualizator3D\obj\Debug\ExampleBrowser.g.resources
+C:\Users\madalin\Desktop\ATESTAT\FINAL\AdolfHitlerApp\Vizualizator3D\obj\Debug\ExampleBrowser.Properties.Resources.resources
+C:\Users\madalin\Desktop\ATESTAT\FINAL\AdolfHitlerApp\Vizualizator3D\obj\Debug\Vizualizator3D.csproj.GenerateResource.cache
+C:\Users\madalin\Desktop\ATESTAT\FINAL\AdolfHitlerApp\Vizualizator3D\obj\Debug\Vizualizator3D.csproj.CoreCompileInputs.cache
+C:\Users\madalin\Desktop\ATESTAT\FINAL\AdolfHitlerApp\Vizualizator3D\obj\Debug\Vizualizator3D.csproj.CopyComplete
+C:\Users\madalin\Desktop\ATESTAT\FINAL\AdolfHitlerApp\Vizualizator3D\obj\Debug\ExampleBrowser.exe
+C:\Users\madalin\Desktop\ATESTAT\FINAL\AdolfHitlerApp\Vizualizator3D\obj\Debug\ExampleBrowser.pdb
+C:\Users\madalin\Desktop\ATESTAT\AdolfHitlerApp\Vizualizator3D\bin\Debug\HelixToolkit.dll
+C:\Users\madalin\Desktop\ATESTAT\AdolfHitlerApp\Vizualizator3D\bin\Debug\HelixToolkit.pdb
+C:\Users\madalin\Desktop\ATESTAT\AdolfHitlerApp\Vizualizator3D\bin\Debug\HelixToolkit.Wpf.dll
+C:\Users\madalin\Desktop\ATESTAT\AdolfHitlerApp\Vizualizator3D\bin\Debug\HelixToolkit.Wpf.pdb
+C:\Users\madalin\Desktop\ATESTAT\AdolfHitlerApp\Vizualizator3D\bin\Debug\NAudio.dll
+C:\Users\madalin\Desktop\ATESTAT\AdolfHitlerApp\Vizualizator3D\bin\Debug\PropertyTools.Wpf.dll
+C:\Users\madalin\Desktop\ATESTAT\AdolfHitlerApp\Vizualizator3D\bin\Debug\PropertyTools.Wpf.pdb
+C:\Users\madalin\Desktop\ATESTAT\AdolfHitlerApp\Vizualizator3D\bin\Debug\PropertyTools.dll
+C:\Users\madalin\Desktop\ATESTAT\AdolfHitlerApp\Vizualizator3D\bin\Debug\PropertyTools.pdb
+C:\Users\madalin\Desktop\ATESTAT\AdolfHitlerApp\Vizualizator3D\obj\Debug\Vizualizator3D.csprojAssemblyReference.cache
+C:\Users\madalin\Desktop\ATESTAT\AdolfHitlerApp\Vizualizator3D\obj\Debug\3D_FILES\GermanShepherd\MainWindow.g.cs
+C:\Users\madalin\Desktop\ATESTAT\AdolfHitlerApp\Vizualizator3D\obj\Debug\3D_FILES\Hitler\MainWindow.g.cs
+C:\Users\madalin\Desktop\ATESTAT\AdolfHitlerApp\Vizualizator3D\obj\Debug\3D_FILES\MercedesBenz\MainWindow.g.cs
+C:\Users\madalin\Desktop\ATESTAT\AdolfHitlerApp\Vizualizator3D\obj\Debug\3D_FILES\Volkshalle\MainWindow.g.cs
+C:\Users\madalin\Desktop\ATESTAT\AdolfHitlerApp\Vizualizator3D\obj\Debug\MainWindow.g.cs
+C:\Users\madalin\Desktop\ATESTAT\AdolfHitlerApp\Vizualizator3D\obj\Debug\App.g.cs
+C:\Users\madalin\Desktop\ATESTAT\AdolfHitlerApp\Vizualizator3D\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\madalin\Desktop\ATESTAT\AdolfHitlerApp\Vizualizator3D\obj\Debug\3D_FILES\GermanShepherd\MainWindow.baml
+C:\Users\madalin\Desktop\ATESTAT\AdolfHitlerApp\Vizualizator3D\obj\Debug\3D_FILES\Hitler\MainWindow.baml
+C:\Users\madalin\Desktop\ATESTAT\AdolfHitlerApp\Vizualizator3D\obj\Debug\3D_FILES\MercedesBenz\MainWindow.baml
+C:\Users\madalin\Desktop\ATESTAT\AdolfHitlerApp\Vizualizator3D\obj\Debug\3D_FILES\Volkshalle\MainWindow.baml
+C:\Users\madalin\Desktop\ATESTAT\AdolfHitlerApp\Vizualizator3D\obj\Debug\MainWindow.baml
+C:\Users\madalin\Desktop\ATESTAT\AdolfHitlerApp\Vizualizator3D\obj\Debug\Vizualizator3D.csproj.GenerateResource.cache
+C:\Users\madalin\Desktop\ATESTAT\AdolfHitlerApp\Vizualizator3D\obj\Debug\Vizualizator3D.csproj.CoreCompileInputs.cache
+C:\Users\madalin\Desktop\ATESTAT\AdolfHitlerApp\Vizualizator3D\obj\Debug\Vizualizator3D.csproj.CopyComplete
+C:\Users\madalin\Desktop\ATESTAT\AdolfHitlerApp\Vizualizator3D\bin\Debug\Vizualizator3D.exe.config
+C:\Users\madalin\Desktop\ATESTAT\AdolfHitlerApp\Vizualizator3D\bin\Debug\Vizualizator3D.exe
+C:\Users\madalin\Desktop\ATESTAT\AdolfHitlerApp\Vizualizator3D\bin\Debug\Vizualizator3D.pdb
+C:\Users\madalin\Desktop\ATESTAT\AdolfHitlerApp\Vizualizator3D\obj\Debug\Vizualizator3D_Content.g.cs
+C:\Users\madalin\Desktop\ATESTAT\AdolfHitlerApp\Vizualizator3D\obj\Debug\Vizualizator3D_MarkupCompile.cache
+C:\Users\madalin\Desktop\ATESTAT\AdolfHitlerApp\Vizualizator3D\obj\Debug\Vizualizator3D_MarkupCompile.lref
+C:\Users\madalin\Desktop\ATESTAT\AdolfHitlerApp\Vizualizator3D\obj\Debug\Vizualizator3D.g.resources
+C:\Users\madalin\Desktop\ATESTAT\AdolfHitlerApp\Vizualizator3D\obj\Debug\Vizualizator3D.Properties.Resources.resources
+C:\Users\madalin\Desktop\ATESTAT\AdolfHitlerApp\Vizualizator3D\obj\Debug\Vizualizator3D.exe
+C:\Users\madalin\Desktop\ATESTAT\AdolfHitlerApp\Vizualizator3D\obj\Debug\Vizualizator3D.pdb
+D:\Proiecte făurite\atestat\ATESTAT\AdolfHitlerApp\Vizualizator3D\obj\Debug\Vizualizator3D.csprojAssemblyReference.cache
+D:\Proiecte făurite\atestat\ATESTAT\AdolfHitlerApp\Vizualizator3D\obj\Debug\MainWindow.g.cs
+D:\Proiecte făurite\atestat\ATESTAT\AdolfHitlerApp\Vizualizator3D\obj\Debug\App.g.cs
+D:\Proiecte făurite\atestat\ATESTAT\AdolfHitlerApp\Vizualizator3D\obj\Debug\Vizualizator3D_Content.g.cs
+D:\Proiecte făurite\atestat\ATESTAT\AdolfHitlerApp\Vizualizator3D\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Proiecte făurite\atestat\ATESTAT\AdolfHitlerApp\Vizualizator3D\obj\Debug\Vizualizator3D_MarkupCompile.cache
+D:\Proiecte făurite\atestat\ATESTAT\AdolfHitlerApp\Vizualizator3D\obj\Debug\Vizualizator3D_MarkupCompile.lref
+D:\Proiecte făurite\atestat\ATESTAT\AdolfHitlerApp\Vizualizator3D\obj\Debug\Vizualizator3D.exe
+D:\Proiecte făurite\atestat\ATESTAT\AdolfHitlerApp\Vizualizator3D\obj\Debug\Vizualizator3D.pdb
+D:\Proiecte făurite\atestat\ATESTAT\AdolfHitlerApp\Vizualizator3D\bin\Debug\Vizualizator3D.exe.config
+D:\Proiecte făurite\atestat\ATESTAT\AdolfHitlerApp\Vizualizator3D\bin\Debug\Vizualizator3D.exe
+D:\Proiecte făurite\atestat\ATESTAT\AdolfHitlerApp\Vizualizator3D\bin\Debug\Vizualizator3D.pdb
+D:\Proiecte făurite\atestat\ATESTAT\AdolfHitlerApp\Vizualizator3D\bin\Debug\HelixToolkit.dll
+D:\Proiecte făurite\atestat\ATESTAT\AdolfHitlerApp\Vizualizator3D\bin\Debug\HelixToolkit.Wpf.dll
+D:\Proiecte făurite\atestat\ATESTAT\AdolfHitlerApp\Vizualizator3D\bin\Debug\NAudio.dll
+D:\Proiecte făurite\atestat\ATESTAT\AdolfHitlerApp\Vizualizator3D\bin\Debug\PropertyTools.Wpf.dll
+D:\Proiecte făurite\atestat\ATESTAT\AdolfHitlerApp\Vizualizator3D\bin\Debug\PropertyTools.Wpf.pdb
+D:\Proiecte făurite\atestat\ATESTAT\AdolfHitlerApp\Vizualizator3D\bin\Debug\PropertyTools.dll
+D:\Proiecte făurite\atestat\ATESTAT\AdolfHitlerApp\Vizualizator3D\bin\Debug\PropertyTools.pdb
+D:\Proiecte făurite\atestat\ATESTAT\AdolfHitlerApp\Vizualizator3D\obj\Debug\3D_FILES\GermanShepherd\MainWindow.g.cs
+D:\Proiecte făurite\atestat\ATESTAT\AdolfHitlerApp\Vizualizator3D\obj\Debug\3D_FILES\Hitler\MainWindow.g.cs
+D:\Proiecte făurite\atestat\ATESTAT\AdolfHitlerApp\Vizualizator3D\obj\Debug\3D_FILES\MercedesBenz\MainWindow.g.cs
+D:\Proiecte făurite\atestat\ATESTAT\AdolfHitlerApp\Vizualizator3D\obj\Debug\3D_FILES\Volkshalle\MainWindow.g.cs
+D:\Proiecte făurite\atestat\ATESTAT\AdolfHitlerApp\Vizualizator3D\obj\Debug\3D_FILES\GermanShepherd\MainWindow.baml
+D:\Proiecte făurite\atestat\ATESTAT\AdolfHitlerApp\Vizualizator3D\obj\Debug\3D_FILES\Hitler\MainWindow.baml
+D:\Proiecte făurite\atestat\ATESTAT\AdolfHitlerApp\Vizualizator3D\obj\Debug\3D_FILES\MercedesBenz\MainWindow.baml
+D:\Proiecte făurite\atestat\ATESTAT\AdolfHitlerApp\Vizualizator3D\obj\Debug\3D_FILES\Volkshalle\MainWindow.baml
+D:\Proiecte făurite\atestat\ATESTAT\AdolfHitlerApp\Vizualizator3D\obj\Debug\MainWindow.baml
+D:\Proiecte făurite\atestat\ATESTAT\AdolfHitlerApp\Vizualizator3D\obj\Debug\Vizualizator3D.g.resources
+D:\Proiecte făurite\atestat\ATESTAT\AdolfHitlerApp\Vizualizator3D\obj\Debug\Vizualizator3D.Properties.Resources.resources
+D:\Proiecte făurite\atestat\ATESTAT\AdolfHitlerApp\Vizualizator3D\obj\Debug\Vizualizator3D.csproj.GenerateResource.cache
+D:\Proiecte făurite\atestat\ATESTAT\AdolfHitlerApp\Vizualizator3D\obj\Debug\Vizualizator3D.csproj.CoreCompileInputs.cache
+D:\Proiecte făurite\atestat\ATESTAT\AdolfHitlerApp\Vizualizator3D\obj\Debug\Vizualizator3D.csproj.CopyComplete

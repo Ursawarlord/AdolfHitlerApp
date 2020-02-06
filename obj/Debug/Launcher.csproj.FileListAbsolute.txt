@@ -1,0 +1,109 @@
+C:\Users\madalin\Desktop\ATESTAT\FINAL\AdolfHitlerApp\Launcher\obj\Debug\App.g.cs
+C:\Users\madalin\Desktop\ATESTAT\FINAL\AdolfHitlerApp\Launcher\obj\Debug\Launcher_MarkupCompile.cache
+C:\Users\madalin\Desktop\ATESTAT\FINAL\AdolfHitlerApp\Launcher\bin\Debug\Launcher.exe
+C:\Users\madalin\Desktop\ATESTAT\FINAL\AdolfHitlerApp\Launcher\bin\Debug\Launcher.pdb
+C:\Users\madalin\Desktop\ATESTAT\FINAL\AdolfHitlerApp\Launcher\obj\Debug\MainWindow.g.cs
+C:\Users\madalin\Desktop\ATESTAT\FINAL\AdolfHitlerApp\Launcher\obj\Debug\Launcher_MarkupCompile.lref
+C:\Users\madalin\Desktop\ATESTAT\FINAL\AdolfHitlerApp\Launcher\obj\Debug\MainWindow.baml
+C:\Users\madalin\Desktop\ATESTAT\FINAL\AdolfHitlerApp\Launcher\obj\Debug\Launcher.g.resources
+C:\Users\madalin\Desktop\ATESTAT\FINAL\AdolfHitlerApp\Launcher\obj\Debug\Launcher.Properties.Resources.resources
+C:\Users\madalin\Desktop\ATESTAT\FINAL\AdolfHitlerApp\Launcher\obj\Debug\Launcher.csproj.GenerateResource.cache
+C:\Users\madalin\Desktop\ATESTAT\FINAL\AdolfHitlerApp\Launcher\obj\Debug\Launcher.csproj.CoreCompileInputs.cache
+C:\Users\madalin\Desktop\ATESTAT\FINAL\AdolfHitlerApp\Launcher\obj\Debug\Launcher.exe
+C:\Users\madalin\Desktop\ATESTAT\FINAL\AdolfHitlerApp\Launcher\obj\Debug\Launcher.pdb
+C:\Users\madalin\Desktop\ATESTAT\FINAL\AdolfHitlerApp\Launcher\obj\Debug\Launcher.csprojAssemblyReference.cache
+C:\Users\madalin\Desktop\ATESTAT\FINAL\AdolfHitlerApp\Launcher\bin\Debug\Launcher.exe.config
+C:\Users\madalin\Desktop\ATESTAT\FINAL\AdolfHitlerApp\Launcher\bin\Debug\ExampleBrowser.exe
+C:\Users\madalin\Desktop\ATESTAT\FINAL\AdolfHitlerApp\Launcher\bin\Debug\HelixToolkit.Wpf.dll
+C:\Users\madalin\Desktop\ATESTAT\FINAL\AdolfHitlerApp\Launcher\bin\Debug\HelixToolkit.dll
+C:\Users\madalin\Desktop\ATESTAT\FINAL\AdolfHitlerApp\Launcher\bin\Debug\ExampleBrowser.pdb
+C:\Users\madalin\Desktop\ATESTAT\FINAL\AdolfHitlerApp\Launcher\bin\Debug\ExampleBrowser.exe.config
+C:\Users\madalin\Desktop\ATESTAT\FINAL\AdolfHitlerApp\Launcher\bin\Debug\HelixToolkit.Wpf.pdb
+C:\Users\madalin\Desktop\ATESTAT\FINAL\AdolfHitlerApp\Launcher\bin\Debug\HelixToolkit.pdb
+C:\Users\madalin\Desktop\ATESTAT\FINAL\AdolfHitlerApp\Launcher\obj\Debug\Launcher.csproj.CopyComplete
+C:\Users\madalin\Desktop\ATESTAT\FINAL\AdolfHitlerApp\bin\Debug\Launcher.exe.config
+C:\Users\madalin\Desktop\ATESTAT\FINAL\AdolfHitlerApp\bin\Debug\Launcher.exe
+C:\Users\madalin\Desktop\ATESTAT\FINAL\AdolfHitlerApp\bin\Debug\Launcher.pdb
+C:\Users\madalin\Desktop\ATESTAT\FINAL\AdolfHitlerApp\bin\Debug\ExampleBrowser.exe
+C:\Users\madalin\Desktop\ATESTAT\FINAL\AdolfHitlerApp\bin\Debug\HelixToolkit.Wpf.dll
+C:\Users\madalin\Desktop\ATESTAT\FINAL\AdolfHitlerApp\bin\Debug\HelixToolkit.dll
+C:\Users\madalin\Desktop\ATESTAT\FINAL\AdolfHitlerApp\bin\Debug\ExampleBrowser.pdb
+C:\Users\madalin\Desktop\ATESTAT\FINAL\AdolfHitlerApp\bin\Debug\ExampleBrowser.exe.config
+C:\Users\madalin\Desktop\ATESTAT\FINAL\AdolfHitlerApp\bin\Debug\HelixToolkit.Wpf.pdb
+C:\Users\madalin\Desktop\ATESTAT\FINAL\AdolfHitlerApp\bin\Debug\HelixToolkit.pdb
+C:\Users\madalin\Desktop\ATESTAT\FINAL\AdolfHitlerApp\obj\Debug\Launcher.csprojAssemblyReference.cache
+C:\Users\madalin\Desktop\ATESTAT\FINAL\AdolfHitlerApp\obj\Debug\MainWindow.g.cs
+C:\Users\madalin\Desktop\ATESTAT\FINAL\AdolfHitlerApp\obj\Debug\App.g.cs
+C:\Users\madalin\Desktop\ATESTAT\FINAL\AdolfHitlerApp\obj\Debug\Launcher_MarkupCompile.cache
+C:\Users\madalin\Desktop\ATESTAT\FINAL\AdolfHitlerApp\obj\Debug\Launcher_MarkupCompile.lref
+C:\Users\madalin\Desktop\ATESTAT\FINAL\AdolfHitlerApp\obj\Debug\MainWindow.baml
+C:\Users\madalin\Desktop\ATESTAT\FINAL\AdolfHitlerApp\obj\Debug\Launcher.g.resources
+C:\Users\madalin\Desktop\ATESTAT\FINAL\AdolfHitlerApp\obj\Debug\Launcher.Properties.Resources.resources
+C:\Users\madalin\Desktop\ATESTAT\FINAL\AdolfHitlerApp\obj\Debug\Launcher.csproj.GenerateResource.cache
+C:\Users\madalin\Desktop\ATESTAT\FINAL\AdolfHitlerApp\obj\Debug\Launcher.csproj.CoreCompileInputs.cache
+C:\Users\madalin\Desktop\ATESTAT\FINAL\AdolfHitlerApp\obj\Debug\Launcher.csproj.CopyComplete
+C:\Users\madalin\Desktop\ATESTAT\FINAL\AdolfHitlerApp\obj\Debug\Launcher.exe
+C:\Users\madalin\Desktop\ATESTAT\FINAL\AdolfHitlerApp\obj\Debug\Launcher.pdb
+C:\Users\madalin\Desktop\ATESTAT\FINAL\AdolfHitlerApp\bin\Debug\lectie.exe
+C:\Users\madalin\Desktop\ATESTAT\FINAL\AdolfHitlerApp\bin\Debug\lectie.pdb
+C:\Users\madalin\Desktop\ATESTAT\FINAL\AdolfHitlerApp\bin\Debug\lectie.exe.config
+C:\Users\madalin\Desktop\ATESTAT\AdolfHitlerApp\bin\Debug\Launcher.exe.config
+C:\Users\madalin\Desktop\ATESTAT\AdolfHitlerApp\bin\Debug\Launcher.exe
+C:\Users\madalin\Desktop\ATESTAT\AdolfHitlerApp\bin\Debug\Launcher.pdb
+C:\Users\madalin\Desktop\ATESTAT\AdolfHitlerApp\bin\Debug\lectie.exe
+C:\Users\madalin\Desktop\ATESTAT\AdolfHitlerApp\bin\Debug\HelixToolkit.Wpf.dll
+C:\Users\madalin\Desktop\ATESTAT\AdolfHitlerApp\bin\Debug\HelixToolkit.dll
+C:\Users\madalin\Desktop\ATESTAT\AdolfHitlerApp\bin\Debug\lectie.pdb
+C:\Users\madalin\Desktop\ATESTAT\AdolfHitlerApp\bin\Debug\lectie.exe.config
+C:\Users\madalin\Desktop\ATESTAT\AdolfHitlerApp\bin\Debug\HelixToolkit.Wpf.pdb
+C:\Users\madalin\Desktop\ATESTAT\AdolfHitlerApp\bin\Debug\HelixToolkit.pdb
+C:\Users\madalin\Desktop\ATESTAT\AdolfHitlerApp\obj\Debug\Launcher.csprojAssemblyReference.cache
+C:\Users\madalin\Desktop\ATESTAT\AdolfHitlerApp\obj\Debug\MainWindow.g.cs
+C:\Users\madalin\Desktop\ATESTAT\AdolfHitlerApp\obj\Debug\App.g.cs
+C:\Users\madalin\Desktop\ATESTAT\AdolfHitlerApp\obj\Debug\Launcher_MarkupCompile.cache
+C:\Users\madalin\Desktop\ATESTAT\AdolfHitlerApp\obj\Debug\Launcher_MarkupCompile.lref
+C:\Users\madalin\Desktop\ATESTAT\AdolfHitlerApp\obj\Debug\MainWindow.baml
+C:\Users\madalin\Desktop\ATESTAT\AdolfHitlerApp\obj\Debug\Launcher.g.resources
+C:\Users\madalin\Desktop\ATESTAT\AdolfHitlerApp\obj\Debug\Launcher.Properties.Resources.resources
+C:\Users\madalin\Desktop\ATESTAT\AdolfHitlerApp\obj\Debug\Launcher.csproj.GenerateResource.cache
+C:\Users\madalin\Desktop\ATESTAT\AdolfHitlerApp\obj\Debug\Launcher.csproj.CoreCompileInputs.cache
+C:\Users\madalin\Desktop\ATESTAT\AdolfHitlerApp\obj\Debug\Launcher.csproj.CopyComplete
+C:\Users\madalin\Desktop\ATESTAT\AdolfHitlerApp\obj\Debug\Launcher.exe
+C:\Users\madalin\Desktop\ATESTAT\AdolfHitlerApp\obj\Debug\Launcher.pdb
+C:\Users\madalin\Desktop\ATESTAT\AdolfHitlerApp\bin\Debug\Launcher.exe.manifest
+C:\Users\madalin\Desktop\ATESTAT\AdolfHitlerApp\bin\Debug\Launcher.application
+C:\Users\madalin\Desktop\ATESTAT\AdolfHitlerApp\obj\Debug\Launcher.exe.manifest
+C:\Users\madalin\Desktop\ATESTAT\AdolfHitlerApp\obj\Debug\Launcher.application
+C:\Users\madalin\Desktop\ATESTAT\AdolfHitlerApp\bin\Debug\Vizualizator3D.exe
+C:\Users\madalin\Desktop\ATESTAT\AdolfHitlerApp\bin\Debug\Vizualizator3D.pdb
+C:\Users\madalin\Desktop\ATESTAT\AdolfHitlerApp\bin\Debug\Vizualizator3D.exe.config
+D:\Proiecte făurite\atestat\ATESTAT\AdolfHitlerApp\bin\Debug\Launcher.exe.config
+D:\Proiecte făurite\atestat\ATESTAT\AdolfHitlerApp\bin\Debug\Launcher.exe.manifest
+D:\Proiecte făurite\atestat\ATESTAT\AdolfHitlerApp\bin\Debug\Launcher.application
+D:\Proiecte făurite\atestat\ATESTAT\AdolfHitlerApp\bin\Debug\Launcher.exe
+D:\Proiecte făurite\atestat\ATESTAT\AdolfHitlerApp\bin\Debug\Launcher.pdb
+D:\Proiecte făurite\atestat\ATESTAT\AdolfHitlerApp\bin\Debug\lectie.exe
+D:\Proiecte făurite\atestat\ATESTAT\AdolfHitlerApp\bin\Debug\Vizualizator3D.exe
+D:\Proiecte făurite\atestat\ATESTAT\AdolfHitlerApp\bin\Debug\HelixToolkit.Wpf.dll
+D:\Proiecte făurite\atestat\ATESTAT\AdolfHitlerApp\bin\Debug\HelixToolkit.dll
+D:\Proiecte făurite\atestat\ATESTAT\AdolfHitlerApp\bin\Debug\lectie.pdb
+D:\Proiecte făurite\atestat\ATESTAT\AdolfHitlerApp\bin\Debug\lectie.exe.config
+D:\Proiecte făurite\atestat\ATESTAT\AdolfHitlerApp\bin\Debug\Vizualizator3D.pdb
+D:\Proiecte făurite\atestat\ATESTAT\AdolfHitlerApp\bin\Debug\Vizualizator3D.exe.config
+D:\Proiecte făurite\atestat\ATESTAT\AdolfHitlerApp\bin\Debug\HelixToolkit.Wpf.pdb
+D:\Proiecte făurite\atestat\ATESTAT\AdolfHitlerApp\bin\Debug\HelixToolkit.pdb
+D:\Proiecte făurite\atestat\ATESTAT\AdolfHitlerApp\obj\Debug\Launcher.csprojAssemblyReference.cache
+D:\Proiecte făurite\atestat\ATESTAT\AdolfHitlerApp\obj\Debug\MainWindow.g.cs
+D:\Proiecte făurite\atestat\ATESTAT\AdolfHitlerApp\obj\Debug\App.g.cs
+D:\Proiecte făurite\atestat\ATESTAT\AdolfHitlerApp\obj\Debug\Launcher_MarkupCompile.cache
+D:\Proiecte făurite\atestat\ATESTAT\AdolfHitlerApp\obj\Debug\Launcher_MarkupCompile.lref
+D:\Proiecte făurite\atestat\ATESTAT\AdolfHitlerApp\obj\Debug\MainWindow.baml
+D:\Proiecte făurite\atestat\ATESTAT\AdolfHitlerApp\obj\Debug\Launcher.g.resources
+D:\Proiecte făurite\atestat\ATESTAT\AdolfHitlerApp\obj\Debug\Launcher.Properties.Resources.resources
+D:\Proiecte făurite\atestat\ATESTAT\AdolfHitlerApp\obj\Debug\Launcher.csproj.GenerateResource.cache
+D:\Proiecte făurite\atestat\ATESTAT\AdolfHitlerApp\obj\Debug\Launcher.csproj.CoreCompileInputs.cache
+D:\Proiecte făurite\atestat\ATESTAT\AdolfHitlerApp\obj\Debug\Launcher.exe.manifest
+D:\Proiecte făurite\atestat\ATESTAT\AdolfHitlerApp\obj\Debug\Launcher.application
+D:\Proiecte făurite\atestat\ATESTAT\AdolfHitlerApp\obj\Debug\Launcher.csproj.CopyComplete
+D:\Proiecte făurite\atestat\ATESTAT\AdolfHitlerApp\obj\Debug\Launcher.exe
+D:\Proiecte făurite\atestat\ATESTAT\AdolfHitlerApp\obj\Debug\Launcher.pdb

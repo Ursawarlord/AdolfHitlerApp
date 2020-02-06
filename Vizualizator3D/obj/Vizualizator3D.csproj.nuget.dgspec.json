@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Proiecte făurite\\atestat\\ATESTAT\\AdolfHitlerApp\\Vizualizator3D\\Vizualizator3D.csproj": {}
+  },
+  "projects": {
+    "D:\\Proiecte făurite\\atestat\\ATESTAT\\AdolfHitlerApp\\Vizualizator3D\\Vizualizator3D.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Proiecte făurite\\atestat\\ATESTAT\\AdolfHitlerApp\\Vizualizator3D\\Vizualizator3D.csproj",
+        "projectName": "Vizualizator3D",
+        "projectPath": "D:\\Proiecte făurite\\atestat\\ATESTAT\\AdolfHitlerApp\\Vizualizator3D\\Vizualizator3D.csproj",
+        "packagesPath": "C:\\Users\\Madalin\\.nuget\\packages\\",
+        "outputPath": "D:\\Proiecte făurite\\atestat\\ATESTAT\\AdolfHitlerApp\\Vizualizator3D\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\Madalin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net45"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net45": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net45": {
+          "dependencies": {
+            "HelixToolkit": {
+              "target": "Package",
+              "version": "[2.7.0, )"
+            },
+            "HelixToolkit.Wpf": {
+              "target": "Package",
+              "version": "[2.7.0, )"
+            },
+            "NAudio": {
+              "target": "Package",
+              "version": "[1.8.5, )"
+            },
+            "PropertyTools.Wpf": {
+              "target": "Package",
+              "version": "[2.0.1, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

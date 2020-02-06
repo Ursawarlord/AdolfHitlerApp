@@ -1,0 +1,36 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v3.1.187496374)
+
+newmtl material_0
+Kd 0.8 0.8 0.8
+Ka 0 0 0
+Ks 0.2 0.2 0.2
+Ke 0 0 0
+d 1
+Ns 20
+illum 2
+
+newmtl hitlerbody_colspec_Mat
+Kd 0.8 0.8 0.8
+Ka 0 0 0
+Ks 0.2 0.2 0.2
+Ke 0 0 0
+d 1
+Ns 20
+illum 2
+map_Kd D:\Downloads\adolf-hitler\source\hitler\hitlerbody_colspec.tga
+bump D:\Downloads\adolf-hitler\source\hitler\hitlerbody_norms.tga
+map_bump D:\Downloads\adolf-hitler\source\hitler\hitlerbody_norms.tga
+
+newmtl hitlerhead_colspec_Mat
+Kd 0.8 0.8 0.8
+Ka 0 0 0
+Ks 0.2 0.2 0.2
+Ke 0 0 0
+d 1
+Ns 20
+illum 2
+map_Kd D:\Downloads\adolf-hitler\source\hitler\hitlerhead_colspec.tga
+bump D:\Downloads\adolf-hitler\source\hitler\hitlerhead_norms.tga
+map_bump D:\Downloads\adolf-hitler\source\hitler\hitlerhead_norms.tga
+

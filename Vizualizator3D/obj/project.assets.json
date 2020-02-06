@@ -1,0 +1,323 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.5": {
+      "HelixToolkit/2.7.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard1.1/HelixToolkit.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard1.1/HelixToolkit.dll": {}
+        }
+      },
+      "HelixToolkit.Wpf/2.7.0": {
+        "type": "package",
+        "dependencies": {
+          "HelixToolkit": "[2.7.0]"
+        },
+        "compile": {
+          "lib/net45/HelixToolkit.Wpf.dll": {}
+        },
+        "runtime": {
+          "lib/net45/HelixToolkit.Wpf.dll": {}
+        }
+      },
+      "NAudio/1.8.5": {
+        "type": "package",
+        "compile": {
+          "lib/net35/NAudio.dll": {}
+        },
+        "runtime": {
+          "lib/net35/NAudio.dll": {}
+        }
+      },
+      "PropertyTools.Wpf/2.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/net45/PropertyTools.Wpf.dll": {},
+          "lib/net45/PropertyTools.dll": {}
+        },
+        "runtime": {
+          "lib/net45/PropertyTools.Wpf.dll": {},
+          "lib/net45/PropertyTools.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.5/win": {
+      "HelixToolkit/2.7.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard1.1/HelixToolkit.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard1.1/HelixToolkit.dll": {}
+        }
+      },
+      "HelixToolkit.Wpf/2.7.0": {
+        "type": "package",
+        "dependencies": {
+          "HelixToolkit": "[2.7.0]"
+        },
+        "compile": {
+          "lib/net45/HelixToolkit.Wpf.dll": {}
+        },
+        "runtime": {
+          "lib/net45/HelixToolkit.Wpf.dll": {}
+        }
+      },
+      "NAudio/1.8.5": {
+        "type": "package",
+        "compile": {
+          "lib/net35/NAudio.dll": {}
+        },
+        "runtime": {
+          "lib/net35/NAudio.dll": {}
+        }
+      },
+      "PropertyTools.Wpf/2.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/net45/PropertyTools.Wpf.dll": {},
+          "lib/net45/PropertyTools.dll": {}
+        },
+        "runtime": {
+          "lib/net45/PropertyTools.Wpf.dll": {},
+          "lib/net45/PropertyTools.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.5/win-x64": {
+      "HelixToolkit/2.7.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard1.1/HelixToolkit.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard1.1/HelixToolkit.dll": {}
+        }
+      },
+      "HelixToolkit.Wpf/2.7.0": {
+        "type": "package",
+        "dependencies": {
+          "HelixToolkit": "[2.7.0]"
+        },
+        "compile": {
+          "lib/net45/HelixToolkit.Wpf.dll": {}
+        },
+        "runtime": {
+          "lib/net45/HelixToolkit.Wpf.dll": {}
+        }
+      },
+      "NAudio/1.8.5": {
+        "type": "package",
+        "compile": {
+          "lib/net35/NAudio.dll": {}
+        },
+        "runtime": {
+          "lib/net35/NAudio.dll": {}
+        }
+      },
+      "PropertyTools.Wpf/2.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/net45/PropertyTools.Wpf.dll": {},
+          "lib/net45/PropertyTools.dll": {}
+        },
+        "runtime": {
+          "lib/net45/PropertyTools.Wpf.dll": {},
+          "lib/net45/PropertyTools.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.5/win-x86": {
+      "HelixToolkit/2.7.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard1.1/HelixToolkit.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard1.1/HelixToolkit.dll": {}
+        }
+      },
+      "HelixToolkit.Wpf/2.7.0": {
+        "type": "package",
+        "dependencies": {
+          "HelixToolkit": "[2.7.0]"
+        },
+        "compile": {
+          "lib/net45/HelixToolkit.Wpf.dll": {}
+        },
+        "runtime": {
+          "lib/net45/HelixToolkit.Wpf.dll": {}
+        }
+      },
+      "NAudio/1.8.5": {
+        "type": "package",
+        "compile": {
+          "lib/net35/NAudio.dll": {}
+        },
+        "runtime": {
+          "lib/net35/NAudio.dll": {}
+        }
+      },
+      "PropertyTools.Wpf/2.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/net45/PropertyTools.Wpf.dll": {},
+          "lib/net45/PropertyTools.dll": {}
+        },
+        "runtime": {
+          "lib/net45/PropertyTools.Wpf.dll": {},
+          "lib/net45/PropertyTools.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HelixToolkit/2.7.0": {
+      "sha512": "2QE55Y217bjCFq6WGEK5NRUVmmSVExubVi0zv+rWZqNIEXjHYC4Q7HixHH6N9DYaPPrgOME+I/kd9UwVJiL/LQ==",
+      "type": "package",
+      "path": "helixtoolkit/2.7.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "AUTHORS",
+        "CONTRIBUTORS",
+        "LICENSE",
+        "README.md",
+        "helixtoolkit.2.7.0.nupkg.sha512",
+        "helixtoolkit.nuspec",
+        "lib/netstandard1.1/HelixToolkit.dll",
+        "lib/netstandard1.1/HelixToolkit.xml"
+      ]
+    },
+    "HelixToolkit.Wpf/2.7.0": {
+      "sha512": "yydJPQY/tnhuxnyQnAh7Wsy2Dh6/JaXuj7YS2T5Irr1aNq9Ayq7JEAWg1AuvtQ19hv3vOvuODmtpvFgWwGXsCg==",
+      "type": "package",
+      "path": "helixtoolkit.wpf/2.7.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "AUTHORS",
+        "CONTRIBUTORS",
+        "LICENSE",
+        "README.md",
+        "helixtoolkit.wpf.2.7.0.nupkg.sha512",
+        "helixtoolkit.wpf.nuspec",
+        "lib/net45/HelixToolkit.Wpf.XML",
+        "lib/net45/HelixToolkit.Wpf.dll"
+      ]
+    },
+    "NAudio/1.8.5": {
+      "sha512": "ATbzKXZtbyXKnNfHlpPC+SLGnX9pqZ4/YQfL9Vd1CPYdBgw0v2vas5s0ZhLpFyimt3n3hYvyElyarowpeaO+Tg==",
+      "type": "package",
+      "path": "naudio/1.8.5",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net35/NAudio.XML",
+        "lib/net35/NAudio.dll",
+        "lib/uap10.0/NAudio.Universal.XML",
+        "lib/uap10.0/NAudio.Universal.dll",
+        "license.txt",
+        "naudio.1.8.5.nupkg.sha512",
+        "naudio.nuspec"
+      ]
+    },
+    "PropertyTools.Wpf/2.0.1": {
+      "sha512": "rAo1SKwxPEdwzQt+Kdxj1BkUBW4vjutbdKHzATFF5LzQcBQ0QB+kS/jlmmWv3t1v+63LXM1dMby7/VmgoZG65w==",
+      "type": "package",
+      "path": "propertytools.wpf/2.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "AUTHORS",
+        "CONTRIBUTORS",
+        "LICENSE",
+        "README.md",
+        "lib/net45/PropertyTools.Wpf.XML",
+        "lib/net45/PropertyTools.Wpf.dll",
+        "lib/net45/PropertyTools.Wpf.pdb",
+        "lib/net45/PropertyTools.dll",
+        "lib/net45/PropertyTools.pdb",
+        "lib/net45/PropertyTools.xml",
+        "lib/portable-net45+win8+wpa81+wp8/PropertyTools.dll",
+        "lib/portable-net45+win8+wpa81+wp8/PropertyTools.pdb",
+        "lib/portable-net45+win8+wpa81+wp8/PropertyTools.xml",
+        "propertytools.wpf.2.0.1.nupkg.sha512",
+        "propertytools.wpf.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.5": [
+      "HelixToolkit >= 2.7.0",
+      "HelixToolkit.Wpf >= 2.7.0",
+      "NAudio >= 1.8.5",
+      "PropertyTools.Wpf >= 2.0.1"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Madalin\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Proiecte făurite\\atestat\\ATESTAT\\AdolfHitlerApp\\Vizualizator3D\\Vizualizator3D.csproj",
+      "projectName": "Vizualizator3D",
+      "projectPath": "D:\\Proiecte făurite\\atestat\\ATESTAT\\AdolfHitlerApp\\Vizualizator3D\\Vizualizator3D.csproj",
+      "packagesPath": "C:\\Users\\Madalin\\.nuget\\packages\\",
+      "outputPath": "D:\\Proiecte făurite\\atestat\\ATESTAT\\AdolfHitlerApp\\Vizualizator3D\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "configFilePaths": [
+        "C:\\Users\\Madalin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net45"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net45": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "net45": {
+        "dependencies": {
+          "HelixToolkit": {
+            "target": "Package",
+            "version": "[2.7.0, )"
+          },
+          "HelixToolkit.Wpf": {
+            "target": "Package",
+            "version": "[2.7.0, )"
+          },
+          "NAudio": {
+            "target": "Package",
+            "version": "[1.8.5, )"
+          },
+          "PropertyTools.Wpf": {
+            "target": "Package",
+            "version": "[2.0.1, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}

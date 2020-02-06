@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28729.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vizualizator3D", "Vizualizator3D\Vizualizator3D.csproj", "{991A4C2B-D830-41CB-A810-047ADCF69219}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Launcher", "Launcher.csproj", "{530854A8-66E6-4B80-B37D-726C517E3126}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lectie", "lectie\lectie.csproj", "{2F234BB0-7633-4D30-B34A-7FA7693473A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{991A4C2B-D830-41CB-A810-047ADCF69219}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{991A4C2B-D830-41CB-A810-047ADCF69219}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{991A4C2B-D830-41CB-A810-047ADCF69219}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{991A4C2B-D830-41CB-A810-047ADCF69219}.Release|Any CPU.Build.0 = Release|Any CPU
+		{530854A8-66E6-4B80-B37D-726C517E3126}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{530854A8-66E6-4B80-B37D-726C517E3126}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{530854A8-66E6-4B80-B37D-726C517E3126}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{530854A8-66E6-4B80-B37D-726C517E3126}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F234BB0-7633-4D30-B34A-7FA7693473A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F234BB0-7633-4D30-B34A-7FA7693473A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F234BB0-7633-4D30-B34A-7FA7693473A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F234BB0-7633-4D30-B34A-7FA7693473A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE5AA405-FEA2-446C-B79A-2A5917F3E5DB}
+	EndGlobalSection
+EndGlobal
